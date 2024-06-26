@@ -6,6 +6,7 @@
     "@hotwired/turbo-rails": "^8.0.4",
     "autoprefixer": "^10.4.19",
     "esbuild": "^0.21.5",
+    "flatpickr": "^4.6.13",
     "flowbite": "^2.3.0",
     "flowbite-datepicker": "^1.2.7",
     "postcss": "^8.4.38",
